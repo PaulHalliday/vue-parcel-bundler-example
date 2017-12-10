@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "vue": "^2.5.9"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1"
   }
 }
